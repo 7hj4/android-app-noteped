@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "290250079912",
+    "firebase_url": "https://note-e5c9f-default-rtdb.firebaseio.com",
+    "project_id": "note-e5c9f",
+    "storage_bucket": "note-e5c9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290250079912:android:dd6ba50daedd6cf1370c9d",
+        "android_client_info": {
+          "package_name": "com.example.yousef.note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290250079912-2mggq17tkst6apk9ap17flpp8nhr20pg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yousef.note",
+            "certificate_hash": "7ee61762cd741bf4ebc9e3832e2f6bb1791a6402"
+          }
+        },
+        {
+          "client_id": "290250079912-41aqn8q15v913d838teqr35q3is7g57d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF5uuZNISMHT2iYrxwXqT58zLs_hG-PWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290250079912-41aqn8q15v913d838teqr35q3is7g57d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

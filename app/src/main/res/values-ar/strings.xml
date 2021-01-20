@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ملاحظات</string>
+    <string name="login">تسجيل دخول</string>
+    <string name="password">كلمة السر</string>
+    <string name="email">البريد الكتروني</string>
+    <string name="notes">الملاحظات</string>
+    <string name="title">العنوان</string>
+    <string name="register">أنشاء حساب</string>
+    <string name="name">الأسم</string>
+    <string name="note">الملاحظة</string>
+    <string name="create">انشاء الملاحظة</string>
+</resources>
